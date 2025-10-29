@@ -9,7 +9,7 @@ Sistema base para conectar Node.js con MySQL y administrar las categorías del n
 
 ---
 
-## 🧱 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```bash
 LaJicara/
@@ -88,12 +88,12 @@ https://github.com/Gaeletor/La-jicara
 
 ## Créditos
 
-Autor: Alejandro Serrano Guzmán
+Autor: Fernando Gael Estrada Velasco
 
-Proyecto: ArTours
+Proyecto: La jicara
 
-Fecha: Octubre 2025
+Fecha: Octubre del 2025
 
-Materia: E-Business / Desarrollo de Aplicaciones Web
+Materia: E-Business
 
 Institución: Instituto Tecnológico de Tuxtla Gutiérrez
